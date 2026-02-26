@@ -1,0 +1,10 @@
+# Example numbers file for lab04
+5 12 7
+5
+12 18 5   20 7
+0 -2 100 100 3 3 3
+
+# More numbers with spacing and duplicates
+42 42 19 19 19 0 0
+8 -10 -10 -10 -10
+
